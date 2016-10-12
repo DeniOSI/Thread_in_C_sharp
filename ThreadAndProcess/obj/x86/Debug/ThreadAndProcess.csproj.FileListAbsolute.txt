@@ -1,0 +1,10 @@
+C:\Users\Администратор\AppData\Local\Temporary Projects\ThreadAndProcess\bin\Debug\ThreadAndProcess.exe
+C:\Users\Администратор\AppData\Local\Temporary Projects\ThreadAndProcess\bin\Debug\ThreadAndProcess.pdb
+C:\Users\Администратор\AppData\Local\Temporary Projects\ThreadAndProcess\obj\x86\Debug\ThreadAndProcess.exe
+C:\Users\Администратор\AppData\Local\Temporary Projects\ThreadAndProcess\obj\x86\Debug\ThreadAndProcess.pdb
+c:\users\администратор\documents\visual studio 2010\Projects\ThreadAndProcess\ThreadAndProcess\obj\x86\Debug\ThreadAndProcess.exe
+c:\users\администратор\documents\visual studio 2010\Projects\ThreadAndProcess\ThreadAndProcess\obj\x86\Debug\ThreadAndProcess.pdb
+c:\users\администратор\documents\visual studio 2010\Projects\ThreadAndProcess\ThreadAndProcess\bin\Debug\ThreadAndProcess.exe
+c:\users\администратор\documents\visual studio 2010\Projects\ThreadAndProcess\ThreadAndProcess\bin\Debug\ThreadAndProcess.pdb
+F:\Google_School_9\Development_Lessons\SchoolProjects\ThreadAndProcess\ThreadAndProcess\obj\x86\Debug\ThreadAndProcess.exe
+F:\Google_School_9\Development_Lessons\SchoolProjects\ThreadAndProcess\ThreadAndProcess\obj\x86\Debug\ThreadAndProcess.pdb
