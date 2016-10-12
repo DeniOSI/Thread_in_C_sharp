@@ -3,11 +3,13 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading;
+using System.Runtime.CompilerServices;
 
 namespace ThreadAndProcess
 {
     class MonitorExample //Тик так
     {
+        //[MethodImplAttribute(MethodImplOptions.Synchronized)] - Альтернатива конструкции lock
         public void Tick(bool running)
         {
             lock (this)
@@ -21,7 +23,7 @@ namespace ThreadAndProcess
 
         }
 
-
+        //[MethodImplAttribute(MethodImplOptions.Synchronized)] - Альтернатива конструкции lock
         public void Tock(bool running)
         {
 
@@ -30,7 +32,7 @@ namespace ThreadAndProcess
                 if (!running) { Monitor.Pulse(this); return; }
                 Console.WriteLine("tock");
                 Monitor.Pulse(this);
-                Monitor.Wait(this); 
+                Monitor.Wait(this);
             }
             
         }
