@@ -8,3 +8,6 @@ c:\users\администратор\documents\visual studio 2010\Projects\Thread
 c:\users\администратор\documents\visual studio 2010\Projects\ThreadAndProcess\ThreadAndProcess\bin\Debug\ThreadAndProcess.pdb
 F:\Google_School_9\Development_Lessons\SchoolProjects\ThreadAndProcess\ThreadAndProcess\obj\x86\Debug\ThreadAndProcess.exe
 F:\Google_School_9\Development_Lessons\SchoolProjects\ThreadAndProcess\ThreadAndProcess\obj\x86\Debug\ThreadAndProcess.pdb
+F:\Google_School_9\Development_Lessons\SchoolProjects\ThreadAndProcess\ThreadAndProcess\bin\Debug\ThreadAndProcess.exe
+F:\Google_School_9\Development_Lessons\SchoolProjects\ThreadAndProcess\ThreadAndProcess\bin\Debug\ThreadAndProcess.pdb
+F:\Google_School_9\Development_Lessons\SchoolProjects\ThreadAndProcess\ThreadAndProcess\obj\x86\Debug\ThreadAndProcess.csprojResolveAssemblyReference.cache

@@ -28,6 +28,23 @@ namespace ThreadAndProcess
     }
 
 
+    //class MyThread
+    //{
+    //    public Thread thrd;
+    //    public string currentName;
+    //    int[] value;
+    //    static loockThread lt = new loockThread();
+    //    public MyThread(string threadName, int[] Value)
+    //    {
+    //        thrd = new Thread(new ThreadStart(this.Run));
+    //        currentName = threadName;
+    //        thrd.Name = currentName;
+    //        thrd.Start();
+    //        this.value = Value;
+
+
+    //    }
+
     class MyThread
     {
         public Thread thrd;
@@ -41,14 +58,17 @@ namespace ThreadAndProcess
             thrd.Name = currentName;
             thrd.Start();
             this.value = Value;
-       
-        
+
+
         }
 
         public void Run()
         {
+            int i_temp;
+            lock (lt) i_temp =  lt.sumIt(value);
+            
             Console.WriteLine("Поток {0} стартовал", thrd.Name);
-            Console.WriteLine("Сумма для потока {0} = {1}", thrd.Name, lt.sumIt(value));
+            Console.WriteLine("Сумма для потока {0} = {1}", thrd.Name, i_temp);
             Console.WriteLine("Поток {0} завершен", thrd.Name);
         
         }
