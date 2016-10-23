@@ -11,3 +11,5 @@ F:\Google_School_9\Development_Lessons\SchoolProjects\ThreadAndProcess\ThreadAnd
 F:\Google_School_9\Development_Lessons\SchoolProjects\ThreadAndProcess\ThreadAndProcess\bin\Debug\ThreadAndProcess.exe
 F:\Google_School_9\Development_Lessons\SchoolProjects\ThreadAndProcess\ThreadAndProcess\bin\Debug\ThreadAndProcess.pdb
 F:\Google_School_9\Development_Lessons\SchoolProjects\ThreadAndProcess\ThreadAndProcess\obj\x86\Debug\ThreadAndProcess.csprojResolveAssemblyReference.cache
+D:\Users8\User\Desktop\ThreadING\Thread_in_C_sharp\ThreadAndProcess\obj\x86\Debug\ThreadAndProcess.exe
+D:\Users8\User\Desktop\ThreadING\Thread_in_C_sharp\ThreadAndProcess\obj\x86\Debug\ThreadAndProcess.pdb
